@@ -1,0 +1,23 @@
+{
+    "editor.fontSize": 16,
+    "powermode.enabled": false,
+    "editor.minimap.enabled": false,
+    "editor.fontFamily": "Monaco",
+    "python.autoComplete.addBrackets": true,
+    "python.autoComplete.extraPaths": [
+        "/home/spark/.local/lib/python2.7/site-packages",
+    ],
+    "python.autoUpdateLanguageServer": true,
+    "python.linting.pylintArgs": [
+        "--generate-members"
+    ],
+    "workbench.iconTheme": "vscode-icons",
+    "python.jediEnabled": false,
+    "workbench.statusBar.feedback.visible": false,
+    "files.watcherExclude": {
+        "**/.git/objects/**": true,
+        "**/.git/subtree-cache/**": true,
+        "**/node_modules/**": true,
+        "/home/spark/workspakce/PycharmProjects/**": true
+    },
+}
